@@ -1,0 +1,8 @@
+* text=auto
+
+# Двійкові дані: без перетворення кінців рядків (на Windows-раннері autocrlf увімкнено)
+*.bin binary
+*.dll binary
+*.exe binary
+tools/decima/** -text
+gamedata/** -text

@@ -1,0 +1,18 @@
+﻿node_modules/
+__pycache__/
+*.log
+.DS_Store
+.env
+.claude
+.idea
+.vscode
+
+# Скачується з Cloudflare R2 при збірці (Sources, Sources_DSDC_Only);
+# Localization генерується з Crowdin
+resources/
+
+# Проміжні файли й результати збірки
+work/
+dist/
+version-info/
+localizer/build/

@@ -1,0 +1,208 @@
+{
+  "localized/sentences/ds_lines_cutscene/sq_cs00_s00100/sentences.core": {
+    "110c1799-48d4-8f42-8c67-e47aaec4b906": "never",
+    "dba87dd8-2aa8-7f48-a711-e1f3b6b19646": "never",
+    "2a49ca93-5b39-8b4c-9ab0-8713c831f2af": "never",
+    "598ac627-24de-1347-8dce-e4aecb36fa66": "never",
+    "061f4149-731c-6744-b478-d73104170752": "never"
+  },
+  "localized/sentences/ds_lines_cutscene/sq_cs00_s00200/sentences.core": {
+    "d1e686b7-110e-9747-bfa7-8c002736c20e": "never"
+  },
+  "localized/sentences/ds_lines_cutscene/sq_cs01_s00100/sentences.core": {
+    "3d4c9213-0096-bb40-89e5-447564282446": "never"
+  },
+  "localized/sentences/ds_lines_cutscene/sq_cs01_s00400/sentences.core": {
+    "09e885f2-63c8-c343-9830-fefcde54c80c": "never"
+  },
+  "localized/sentences/ds_lines_cutscene/sq_cs02_s00300/sentences.core": {
+    "21561ca6-6546-c749-b0ab-e53b541cc73b": "never"
+  },
+  "localized/sentences/ds_lines_cutscene/sq_cs02_s03600/sentences.core": {
+    "8952edc6-fd41-ab4b-aaf9-9ee5042a093c": "never",
+    "aaf37aa8-1221-cd40-9257-d06059c33c83": "never"
+  },
+  "localized/sentences/ds_lines_cutscene/sq_cs04_s00300/sentences.core": {
+    "a03714b5-8135-b843-bde3-6a5324d6d4f9": "never"
+  },
+  "localized/sentences/ds_lines_cutscene/sq_cs04_s00800/sentences.core": {
+    "6d981980-8ed7-844d-83a8-92c6e19ba34b": "never"
+  },
+  "localized/sentences/ds_lines_cutscene/sq_cs05_s00100/sentences.core": {
+    "f422f903-b0f3-7041-8691-5b2c439faaa1": "never"
+  },
+  "localized/sentences/ds_lines_cutscene/sq_cs05_s00900/sentences.core": {
+    "424c23dc-f960-5243-87fb-ea9257ce252e": "never"
+  },
+  "localized/sentences/ds_lines_cutscene/sq_cs06_s00300/sentences.core": {
+    "745a4c61-9a82-474e-825a-b0e216826dff": "never"
+  },
+  "localized/sentences/ds_lines_cutscene/sq_cs07_s00100/sentences.core": {
+    "90beb1b1-7fd5-e042-bf7f-d92e6c0fb00a": "never"
+  },
+  "localized/sentences/ds_lines_cutscene/sq_cs08_s00150/sentences.core": {
+    "54736f2b-6e47-c547-b36e-1c756c5f1b25": "never"
+  },
+  "localized/sentences/ds_lines_cutscene/sq_cs08_s00500/sentences.core": {
+    "4b81bdee-1743-7946-9bc4-00daa6e2ebd5": "never"
+  },
+  "localized/sentences/ds_lines_cutscene/sq_cs08_s01050/sentences.core": {
+    "ac41cd8a-34be-cf4a-ad39-a8e4f3b90b05": "never"
+  },
+  "localized/sentences/ds_lines_cutscene/sq_cs09_s00030/sentences.core": {
+    "c956fe48-ac1b-3b40-8946-e1e0d4a103d8": "never"
+  },
+  "localized/sentences/ds_lines_cutscene/sq_cs09_s00250/sentences.core": {
+    "4323e94d-52d3-d644-a7c8-250259e4e2c9": "never"
+  },
+  "localized/sentences/ds_lines_cutscene/sq_cs10_s00100/sentences.core": {
+    "46904ca9-9015-a44b-afde-17981cb97ff3": "never"
+  },
+  "localized/sentences/ds_lines_cutscene/sq_cs10_s00500/sentences.core": {
+    "d2e569c1-dadf-b24d-9b7f-ad334dcf46d5": "never",
+    "bfde0394-22e8-774b-96d5-6d7fdeaa53ed": "never"
+  },
+  "localized/sentences/ds_lines_cutscene/sq_cs11_s00100/sentences.core": {
+    "fbd06951-ce2e-c842-9eb1-09f88e3b969d": "never",
+    "c58e050e-3044-a149-9820-f10e69a38269": "never"
+  },
+  "localized/sentences/ds_lines_cutscene/sq_cs53_s00300/sentences.core": {
+    "802bcb25-19f6-3645-872d-23cc89584dd7": "always",
+    "cb4fefa5-522c-2c49-8c49-734a6f581e34": "always",
+    "1071b544-1f95-c341-871c-3291c2241623": "always",
+    "729e73cd-e05a-584c-a5b1-5316d3754f26": "always",
+    "a61b2ed2-8292-c44b-a507-4e817a396128": "always",
+    "cca2cbb6-cadc-e64d-9daf-602b0706325e": "always",
+    "8182f43e-76ed-9d49-976b-b38ba292385d": "always",
+    "edc33075-e9c2-c74f-88ab-dd89d956a548": "always",
+    "e5bac75f-984a-aa4a-a8eb-867ba1f48872": "always",
+    "a58d9170-a3e4-da40-b782-a9f671fd8216": "always",
+    "59e997cb-ed8a-954d-9997-6945d1c75cfd": "always",
+    "8fcfacac-43d8-5041-9ed4-b551206e7aff": "always",
+    "0b4b1c18-9bf7-5c41-a66b-f260025e4b64": "always",
+    "d7063ca1-1019-2d4a-9fb5-b14eb187da6f": "always",
+    "8e48c328-ea1b-6248-92f8-41c22917eefe": "always",
+    "6c93fa3c-cb71-f943-9a14-93cff0009562": "always",
+    "3ae76e37-9e54-c346-837a-ca9b6aa17b8f": "always"
+  },
+  "localized/sentences/ds_lines_cutscene/sq_cs53_s00310/sentences.core": {
+    "e8719a20-42e8-3540-acb9-2b2561c0a0ad": "always"
+  },
+  "localized/sentences/ds_lines_cutscene/sq_cs53_s00400/sentences.core": {
+    "96e6e934-cacd-7a48-96b4-6b4ea37b1f9f": "always",
+    "afffa849-dcd9-574a-8ef6-b91a50f3eb4f": "always",
+    "17d35dc6-92e0-404e-a7dd-b3b5d4abf1d5": "always",
+    "9052dd43-6969-7d46-ac0b-ae0cfe7c5773": "always",
+    "48744091-87a1-3340-93cf-e182462b7e8e": "always",
+    "0d78ee0e-8a40-534e-9fba-cbafb7b29f67": "always",
+    "422f2979-0469-514a-a6a5-a829265f8775": "always",
+    "0755a957-e154-6149-817e-ec8f85e9880f": "always",
+    "1184d960-d184-aa4c-9bad-4cba654fec2f": "always",
+    "040639e9-c2ff-b64f-8f11-658deebbe936": "always",
+    "b1a944f1-0c95-7b41-8f5d-eae3b6d64b16": "always",
+    "e80c1700-94ba-794d-874c-ab522f0e1ceb": "always",
+    "60098d31-6234-ce4e-9afe-1fe99b03b0ba": "always",
+    "7bb1374c-a7bf-1f44-9fcc-90dfc8b42332": "always",
+    "f358ec95-d63d-4d46-aa1a-6eaf36f7e5ca": "always"
+  },
+  "localized/sentences/ds_lines_cutscene/sq_cs53_s00410/sentences.core": {
+    "848fdd7e-4a1a-7446-bdc4-b36deef6a4db": "always"
+  },
+  "localized/sentences/ds_lines_npc/lines_artist/sentences.core": {
+    "70a89a7b-0820-064e-a2fb-1995f8329b21": "always",
+    "87f22da8-4c4e-1147-8905-056a75802983": "always",
+    "9822a06b-9d33-484c-8da8-6ba5fa166611": "always",
+    "61667845-eece-5449-a9e3-1e7572f3c534": "always",
+    "5ca1c239-caf7-6141-ba3f-1ec5449d2f88": "always",
+    "d5933375-2fec-f54d-9ad2-9a0c601c383e": "always",
+    "4bb7b6c5-faf1-f843-9ee1-0644d4ce5317": "always",
+    "1de79406-bd08-9a46-9e59-408bc7963b08": "always",
+    "7ab3b8cf-d357-9a4e-8d00-2471cd096180": "always",
+    "35455315-31b3-ab43-8eca-8a70ce992522": "always",
+    "d77fc3d7-5ce2-5744-9238-60909080378b": "always",
+    "682d097b-36ea-c547-8750-4c0570444470": "always",
+    "a86bfd5c-8f0b-e64c-a7e7-8642c3830552": "always",
+    "668904be-c789-fc46-9b5f-152d07ae3030": "always",
+    "f1540297-5698-5e47-995a-6d482bd13186": "always",
+    "25406cef-9e3f-984e-b4e2-ae891c4eaf89": "always",
+    "44a205bd-f258-f742-9262-45af8448d7ae": "always",
+    "8be49729-e4c3-8f4c-99fa-10ecdcc285f6": "always",
+    "c5bc93e3-7ff4-4f46-a9c4-217fff0ff68e": "always",
+    "a578b1d9-f7d2-a148-a50b-5351b2fcc091": "always",
+    "c0468f05-c97d-3247-b0d5-d2262e785227": "always",
+    "fe119f4d-a6ad-0945-9174-b2fd5c7b8afd": "always",
+    "db03a399-da16-9e4e-816b-26a66dadb848": "always",
+    "8e76e372-046a-1646-8718-c3cf132ffe90": "always",
+    "0399176e-82b3-f54b-8f6f-798b1b9087bf": "always",
+    "7cdea91f-dacb-0344-b630-9943e0030fdb": "always",
+    "49d55c85-d666-7944-b792-449871030059": "always",
+    "af9d48fa-90ce-4342-a829-24eae16e02a9": "always",
+    "d367d72b-b97d-8041-b4b4-174b81d25c95": "always",
+    "7d1edcfc-1fbc-b540-9cba-c3aaa258d5c1": "always",
+    "f7d40bf7-d3b2-af44-a5aa-7a2f743d1132": "always",
+    "b6b709f5-cbda-1d4f-801a-5bbb34cf0fea": "always",
+    "449c7d0f-1528-f445-b743-2fddf5b65b57": "always",
+    "65cca188-b4f8-7d46-98ef-0e160ada4bf0": "always",
+    "ece7b703-bc50-9a4b-be04-0ce419398d02": "always",
+    "133ece6f-68a9-e343-9235-4d9838f41816": "always",
+    "10d3444c-47f7-be4d-a0fb-2599de616d88": "always",
+    "2e071544-5eaa-0c4a-abaa-3bdcd936844f": "always",
+    "6c3a6614-1b8f-c149-96d5-c4dd288a94af": "always",
+    "90f8e154-2238-9e4d-8e7d-7ff4d16b651d": "always",
+    "c986e16b-8467-8b4c-8346-c5d12efa885d": "always",
+    "de7fd181-a4db-3042-ba3a-d306adb30232": "always",
+    "8b7f949a-a7f6-c541-be58-cee016e53f44": "always",
+    "2e4e6e8d-6755-014f-8e9b-322e214987c6": "always",
+    "fdf4f7ca-df6b-c04c-8823-61dc7b4406ed": "always",
+    "4f882e19-bd8c-964b-b8ee-f3eea772ab49": "always",
+    "071f9d49-68bd-5a4c-b6a3-5564c77d668b": "always"
+  },
+  "localized/sentences/ds_lines_terminal/lines_01_generic_terminal/sentences.core": {
+    "2a158f4a-7a2d-ed47-9c11-54b279d0b8fa": "always",
+    "2a8ddb9f-7ca7-e344-b236-9051fd255301": "always",
+    "16e3c849-d817-d44d-a0b8-09befbc907a0": "always",
+    "e2ef9d9e-e46d-8c4a-9f0a-dbade4393920": "always",
+    "8978589b-f1cd-364e-a79e-5a05139d777f": "always"
+  },
+  "localized/sentences/ds_lines_terminal/lines_02_race_nxt/sentences.core": {
+    "bcf2e3d1-5ef5-0d47-a52a-f47a88708322": "always"
+  },
+  "localized/sentences/ds_lines_terminal/lines_pr201/sentences.core": {
+    "3d14c5c1-090e-ad4c-bcfb-26a4e39693f1": "never",
+    "1a917ee5-93eb-4e47-8623-a2355ad6e51c": "never",
+    "e3a1b0e0-3d69-ba44-a77d-f2e58e612351": "never"
+  },
+  "localized/sentences/ds_lines_terminal/lines_pr205/sentences.core": {
+    "c2e2e36d-cde7-6249-86ed-65b87c36503b": "always",
+    "2397fcb1-ac82-a345-96fb-ec3f4a985509": "always",
+    "6f9c6e5f-2f47-9a43-b3c7-5846cc6a8ea1": "always",
+    "140ad0b0-4022-d841-ac23-de57f5c69d23": "always",
+    "3852447a-f998-c249-bf2f-485edb167e16": "always",
+    "8e2a072c-13c2-2740-9c13-6c3a960d1c0e": "always",
+    "083de1ef-724b-9d46-ad5e-b5c066ade435": "always",
+    "08abf61d-8c0f-8b41-8248-1dcbcddd1fd3": "always",
+    "a76d483c-bb48-5246-ac52-cc1cb22b0897": "always",
+    "1639641b-4dd5-934e-810b-3ec3578d6b18": "always",
+    "26dfbc85-93fe-5e4c-bc5b-2f5da0bf4a6a": "always",
+    "16c83b22-84c1-544c-909a-fce18689ce44": "always",
+    "f7de58c8-5554-7e42-9fb8-10df642fc8ab": "always",
+    "1aa8f929-8694-f447-92d5-377a344f7376": "always",
+    "d8c7a580-0a33-394c-a4eb-88af392b7d11": "always",
+    "0033b13c-29b2-344a-ab05-5976ac071600": "always",
+    "6ca64a61-9b5e-cf45-85f8-6ace5bb02ad3": "always",
+    "c8685b68-ad74-bb4e-af2e-c69e60608307": "always",
+    "6eedf073-b9f9-7c47-ac15-a0b867c6ef8f": "always",
+    "6751055f-9e13-6c4b-9c00-4bce78750a8e": "always",
+    "214a0d78-bf41-ea41-9dbb-67e23833c71e": "always",
+    "c679d921-cf01-614c-8943-775720509b0b": "always",
+    "6948b789-dd39-b34f-8913-8973f85739d3": "always",
+    "c35cb0ea-aeac-0a42-81e8-3a20bcab5988": "always",
+    "8ed0dc53-915e-f14c-9107-a9307e1a4531": "always",
+    "79a663ea-d8c1-6242-98b9-3b4f4e1114b6": "always",
+    "1945ff6e-85db-cf46-8ef7-13d1053e1f4f": "always"
+  },
+  "localized/sentences/ds_lines_terminal/lines_pr206/sentences.core": {
+    "feb758a4-6283-d546-ad3e-2733b1267315": "always",
+    "d6e8007b-3b8a-5b48-8b90-16ab954b48e3": "always"
+  }
+}

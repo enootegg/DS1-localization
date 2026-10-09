@@ -1,0 +1,1004 @@
+{
+  "files": {
+    "localized/sentences/ds_lines_common/lines_catalog/sentences.core": {
+      "a7912d03-9a0d-324c-806c-3f37d28d4b60": {
+        "source": "You can use it to secure cargo at a distance—",
+        "target": ""
+      },
+      "c02d426d-3410-f34c-96aa-dfdee13fea33": {
+        "source": "Gun and projectile are connected by a wire \nwhich can be engaged to reel in targets.",
+        "target": ""
+      },
+      "d611dd05-b6d3-264d-8133-30b3b0790d96": {
+        "source": "The sticky gun is a weapon that launches an adhesive projectile.",
+        "target": ""
+      },
+      "2426bf40-5253-5d41-9649-3fc7dee78fad": {
+        "source": "It's strong, too. Could support up to several dozen kilos.",
+        "target": ""
+      },
+      "ad34989c-4929-d74f-aba9-d33ea6b72a70": {
+        "source": "right out from under a MULE's nose, maybe.",
+        "target": ""
+      },
+      "fa8bf11c-3648-f54a-89dc-10be3aa66cb7": {
+        "source": "Just comes down to how creative you can get.",
+        "target": ""
+      },
+      "cfcdfaf7-dcf1-4a4e-a843-2758a1c9ea30": {
+        "source": "Gun and projectile are connected by a wire \nwhich can be engaged to pull in targets.",
+        "target": ""
+      },
+      "3c804882-1114-5b49-9514-749dda28acdc": {
+        "source": "You're a clever guy, so—",
+        "target": ""
+      },
+      "41bb85fd-287b-724c-bd13-7a905c9f8546": {
+        "source": "You can use it to secure cargo at a distance—\nright out from under a MULE's nose, even.",
+        "target": ""
+      },
+      "9f2834a1-3139-0c41-88c2-0190c7539498": {
+        "source": "The sticky gun is a weapon that launches an adhesive projectile.",
+        "target": ""
+      },
+      "faaeccb9-4da3-d54d-a377-c24071d02350": {
+        "source": "Bear that in mind when testing it out.",
+        "target": ""
+      },
+      "13839226-2347-2144-91cc-996bc383c467": {
+        "source": "I'm sure you can think up a few other applications.",
+        "target": ""
+      },
+      "a31b8e55-aca6-8542-8d60-6ddbe77e33db": {
+        "source": "To be clear, this is a less than lethal weapon with negligible stopping power.",
+        "target": ""
+      }
+    },
+    "localized/sentences/ds_ui/ds_baggage_etc_name/simpletext.core": {
+      "fafc0105-1122-7346-85ba-d142bad56873": {
+        "source": "A very large batch of ceramics, for use with a chiral printer.\nRecycling ceramics at facilities allows them to be used as materials for fabricating equipment. They can also be used to repair and upgrade roads.\nThis batch of ceramics has been condensed even further, meaning that it contains even more than an ordinary batch of the same size. Be aware, however, that it is heavier still as a result.",
+        "target": ""
+      },
+      "1d250a0c-f6fa-f640-975d-ba4945019f13": {
+        "source": "A very large batch of various metals, for use with a chiral printer.\nRecycling metals at facilities allows them to be used as materials for fabricating equipment. They can also be used to repair and upgrade postboxes, bridges, and other structures.\nThis batch of metals has been condensed, meaning that it contains more than an ordinary batch of the same size. Be aware, however, that it is also heavier as a result.",
+        "target": ""
+      },
+      "d3858c14-2221-4245-9ba3-103df24880b1": {
+        "source": "A very large batch of special alloys, for use with a chiral printer.\nRecycling these alloys at facilities allows them to be used as materials for fabricating equipment. They can also be used to upgrade and repair safe houses and other structures.\nThis batch of special alloys has been maximally condensed, meaning that it contains even more than an ordinary batch of the same size. Be aware, however, that it is also extremely heavy as a result.",
+        "target": ""
+      },
+      "4fb11115-7b8c-9243-98e3-6a55d97bc9c0": {
+        "source": "A small batch of various chemicals, for use with a chiral printer.\nRecycling chemicals at facilities allows them to be used as materials for fabricating equipment. They can also be used to repair and upgrade zip-lines.",
+        "target": ""
+      },
+      "3291441a-9268-2f46-ba61-655acfd98c89": {
+        "source": "An extra-large batch of special chemicals. Although these are used in the same way as ordinary chemicals, they are extremely light.\nOnly certain facilities can deal with these chemicals, but recycling them there will allow them to be used as materials for fabricating equipment.\nThey can also be used to repair and upgrade zip-lines.",
+        "target": ""
+      },
+      "ec29881a-9fb2-7045-801e-b93ef1f8d2b7": {
+        "source": "A small batch of various metals, for use with a chiral printer.\nRecycling metals at facilities allows them to be used as materials for fabricating equipment. They can also be used to repair and upgrade postboxes, bridges, and other structures.",
+        "target": ""
+      },
+      "68d90f1b-425f-6e41-abdb-c16e8766ce8f": {
+        "source": "Metals ({0})",
+        "target": ""
+      },
+      "b92e5b22-02c9-3945-982e-3b1be2d34cc8": {
+        "source": "A very large batch of chiral crystals, for use as raw materials.",
+        "target": ""
+      },
+      "97609b24-97e2-af48-9285-2b0b582b3435": {
+        "source": "A very large batch of ceramics, for use with a chiral printer.\nRecycling ceramics at facilities allows them to be used as materials for fabricating equipment. They can also be used to repair and upgrade roads.",
+        "target": ""
+      },
+      "622fa42a-fb93-244a-a311-0e7179654e79": {
+        "source": "Ceramics (Lightweight: {0})",
+        "target": ""
+      },
+      "7762b12a-d00a-2b44-98f4-cf581d8a2047": {
+        "source": "A medium-sized batch of special alloys, for use with a chiral printer.\nRecycling these alloys at facilities allows them to be used as materials for fabricating equipment. They can also be used to upgrade and repair safe houses and other structures.",
+        "target": ""
+      },
+      "eaabe12d-299c-3047-89a7-cc648a6b407a": {
+        "source": "Resins ({0})",
+        "target": ""
+      },
+      "a3d35f2e-b7b4-ac47-824a-6df073ed81ea": {
+        "source": "Metals (High-Density: {0})",
+        "target": ""
+      },
+      "fc49e635-ac7f-9849-ad37-40a0e970103f": {
+        "source": "A large batch of various resins, for use with a chiral printer.\nRecycling resins at facilities allows them to be used as materials for fabricating equipment. They can also be used to repair and upgrade structures.",
+        "target": ""
+      },
+      "57322537-70b7-f048-8362-2619e91d60a4": {
+        "source": "A medium-sized batch of various resins, for use with a chiral printer.\nRecycling resins at facilities allows them to be used as materials for fabricating equipment. They can also be used to repair and upgrade structures.",
+        "target": ""
+      },
+      "bb3b4e37-27e0-f543-b5ba-4d2b1fe27cc1": {
+        "source": "A very large batch of various resins, for use with a chiral printer.\nRecycling resins at facilities allows them to be used as materials for fabricating equipment. They can also be used to repair and upgrade structures.\nThis batch of resins has been condensed even further, meaning that it contains even more than an ordinary batch of the same size. Be aware, however, that it is heavier still as a result.",
+        "target": ""
+      },
+      "58270e38-0ed0-4c4b-8711-5da56cd28a88": {
+        "source": "An extra-large batch of special ceramics. Although these are used in the same way as ordinary ceramics, they are extremely light.\nOnly certain facilities can deal with these ceramics, but recycling them there will allow them to be used as materials for fabricating equipment.\nThey can also be used to repair and upgrade roads.",
+        "target": ""
+      },
+      "94617939-aa0f-c041-9b66-6311354d3860": {
+        "source": "A very large batch of various metals, for use with a chiral printer.\nRecycling metals at facilities allows them to be used as materials for fabricating equipment. They can also be used to repair and upgrade postboxes, bridges, and other structures.",
+        "target": ""
+      },
+      "e5b16d3c-f51c-284f-938a-89e40606ea0a": {
+        "source": "A batch of special metals for chiral printing. Although these are used in the same way as ordinary metals, they are especially dense, and this small batch is as effective as a large batch of ordinary metals—and rather heavy as a result.\nThese metals are not in general circulation. Recycling them at facilities will allow them to be used as materials for fabricating equipment.\nThey can also be used to repair and upgrade postboxes, bridges, and other structures.",
+        "target": ""
+      },
+      "a0365a42-8a17-b64a-b099-a1c477bd712c": {
+        "source": "A small batch of various resins, for use with a chiral printer.\nRecycling resins at facilities allows them to be used as materials for fabricating equipment. They can also be used to repair and upgrade structures.",
+        "target": ""
+      },
+      "f272dd45-0097-4a41-b25c-5b65ed1906aa": {
+        "source": "Resins (High-Density: {0})",
+        "target": ""
+      },
+      "69d4874c-7725-da46-90ee-f55d06a13472": {
+        "source": "A very large batch of various chemicals, for use with a chiral printer.\nRecycling chemicals at facilities allows them to be used as materials for fabricating equipment. They can also be used to repair and upgrade zip-lines.\nThis batch of chemicals has been condensed even further, meaning that it contains even more than an ordinary batch of the same size. Be aware, however, that it is heavier still as a result.",
+        "target": ""
+      },
+      "a93ea24c-37ff-d54e-ae9a-bb57448298a5": {
+        "source": "A very large batch of various metals, for use with a chiral printer.\nRecycling metals at facilities allows them to be used as materials for fabricating equipment. They can also be used to repair and upgrade postboxes, bridges, and other structures.\nThis batch of metals has been condensed even further, meaning that it contains even more than an ordinary batch of the same size. Be aware, however, that it is heavier still as a result.",
+        "target": ""
+      },
+      "33aca44c-3101-f54d-a9ae-d8b1a25c0a3d": {
+        "source": "A medium-sized batch of chiral crystals, for use as a raw material.",
+        "target": ""
+      },
+      "df4de34d-23fb-da4e-82d7-00effaef2d3a": {
+        "source": "A very large batch of various chemicals, for use with a chiral printer.\nRecycling chemicals at facilities allows them to be used as materials for fabricating equipment. They can also be used to repair and upgrade zip-lines.\nThis batch of chemicals has been condensed, meaning that it contains more than an ordinary batch of the same size. Be aware, however, that it is also heavier as a result.",
+        "target": ""
+      },
+      "4e525354-5904-8e4b-b1d0-0e7f72a83a0e": {
+        "source": "Ceramics ({0})",
+        "target": ""
+      },
+      "998ff954-de2a-5d4a-81ca-cf42df952cc1": {
+        "source": "A batch of special ceramics. Although these are used in the same way as ordinary ceramics, they are especially dense, and this medium-sized batch is as effective as a very large batch of ordinary ceramics—and rather heavy as a result.\nThese ceramics are not in general circulation. Recycling them at facilities will allow them to be used as materials for fabricating equipment.\nThey can also be used to repair and upgrade roads.",
+        "target": ""
+      },
+      "36072d56-1128-8248-bf7d-199a6e5f09ae": {
+        "source": "A small batch of ceramics, for use with a chiral printer.\nRecycling ceramics at facilities allows them to be used as materials for fabricating equipment. They can also be used to repair and upgrade roads.",
+        "target": ""
+      },
+      "89a33c58-e27b-ff44-b84d-d1e10bd7ba74": {
+        "source": "An extra-large batch of special metals for chiral printing. Although these are used in the same way as ordinary metals, they are extremely light.\nOnly certain facilities can deal with these metals, but recycling them there will allow them to be used as materials for fabricating equipment.\nThey can also be used to repair and upgrade postboxes, bridges, and other structures.",
+        "target": ""
+      },
+      "d70ff359-e23e-354a-a1d9-982343a4baf7": {
+        "source": "A batch of special chemicals. Although these are used in the same way as ordinary chemicals, they are especially dense, and this medium-sized batch is as effective as a very large batch of ordinary chemicals—and rather heavy as a result.\nThese chemicals are not in general circulation. Recycling them at facilities will allow them to be used as materials for fabricating equipment.\nThey can also be used to repair and upgrade ziplines.",
+        "target": ""
+      },
+      "38597d66-2cfe-ce4a-992d-8c4bbb5c9ee5": {
+        "source": "A large batch of chiral crystals, for use as a raw material.",
+        "target": ""
+      },
+      "1562e06a-4fa0-b348-b27a-ce255db9a204": {
+        "source": "A medium-sized batch of ceramics, for use with a chiral printer.\nRecycling ceramics at facilities allows them to be used as materials for fabricating equipment. They can also be used to repair and upgrade roads.",
+        "target": ""
+      },
+      "ba005f6b-d993-6f47-ad9b-de42d79355c0": {
+        "source": "A batch of very special alloys. Although these are used in the same way as ordinary special alloys, they are especially dense, and this medium-sized batch is as effective as a very large batch of ordinary special alloys—and rather heavy as a result.\nThese alloys are not in general circulation. Recycling them at facilities will allow them to be used as materials for fabricating equipment.\nThey can also be used to upgrade and repair safe houses and other structures.",
+        "target": ""
+      },
+      "02422d75-e908-744d-8c35-19e246e9002a": {
+        "source": "A batch of special chemicals. Although these are used in the same way as ordinary chemicals, they are especially dense, and this small batch is as effective as a large batch of ordinary chemicals—and rather heavy as a result.\nThese chemicals are not in general circulation. Recycling them at facilities will allow them to be used as materials for fabricating equipment.\nThey can also be used to repair and upgrade zip-lines.",
+        "target": ""
+      },
+      "4e209478-83a1-a549-86f3-765ea0d83d99": {
+        "source": "Chiral crystals, for use with a chiral printer.\nRecycling chiral crystals at facilities allows them to be used as materials for fabricating equipment. They can also be used to upgrade and repair various structures.",
+        "target": ""
+      },
+      "dd990a7f-3ecf-434f-b61c-de74338938a3": {
+        "source": "A large batch of ceramics, for use with a chiral printer.\nRecycling ceramics at facilities allows them to be used as materials for fabricating equipment. They can also be used to repair and upgrade roads.",
+        "target": ""
+      },
+      "d61dbf7f-c37a-0949-bd45-19ebe6749ec9": {
+        "source": "Special Alloys ({0})",
+        "target": ""
+      },
+      "3df64a84-bf5d-2b49-a038-f57a03a63879": {
+        "source": "A very large batch of very special alloys. Although these are used in the same way as other special alloys, they are extremely light.\nOnly certain facilities can deal with these alloys, but recycling them at these facilities allows them to be used as a material for fabricating equipment.\nThey can also be used to upgrade and repair safe houses and other structures.",
+        "target": ""
+      },
+      "79e67a84-7730-8342-b9fd-194262626ec3": {
+        "source": "A very large batch of various resins, for use with a chiral printer.\nRecycling resins at facilities allows them to be used as materials for fabricating equipment. They can also be used to repair and upgrade structures.",
+        "target": ""
+      },
+      "a89f6785-52c5-4247-8321-8c0bf18ff32a": {
+        "source": "Chiral Crystals",
+        "target": ""
+      },
+      "3a51608a-08a5-5646-9eb4-5062a122f2c2": {
+        "source": "A small batch of special alloys, for use with a chiral printer.\nRecycling these alloys at facilities allows them to be used as materials for fabricating equipment. They can also be used to upgrade and repair safe houses and other structures.",
+        "target": ""
+      },
+      "9710188e-3e59-5f4e-8a4a-c067e11b4637": {
+        "source": "Special Alloys (Lightweight: {0})",
+        "target": ""
+      },
+      "fa77558e-1321-8048-aa63-84125193b3b0": {
+        "source": "A very large batch of ceramics, for use with a chiral printer.\nRecycling ceramics at facilities allows them to be used as materials for fabricating equipment. They can also be used to repair and upgrade roads.\nThis batch of ceramics has been maximally condensed, meaning that it contains even more than an ordinary batch of the same size. Be aware, however, that it is also extremely heavy as a result.",
+        "target": ""
+      },
+      "342bdb8f-19f4-a640-9360-33130f07a6b3": {
+        "source": "A very large batch of various resins, for use with a chiral printer.\nRecycling resins at facilities allows them to be used as materials for fabricating equipment. They can also be used to repair and upgrade structures.\nThis batch of resins has been condensed, meaning that it contains even more than an ordinary batch of the same size. Be aware, however, that it is heavier as a result.",
+        "target": ""
+      },
+      "2de6a091-67d7-ad4c-856b-4379b268956d": {
+        "source": "A large batch of various metals, for use with a chiral printer.\nRecycling metals at facilities allows them to be used as materials for fabricating equipment. They can also be used to repair and upgrade postboxes, bridges, and other structures.",
+        "target": ""
+      },
+      "c4e7d3a1-dbe9-be45-a9b6-f309b8dbdff5": {
+        "source": "Chiral Crystal (XL)",
+        "target": ""
+      },
+      "341290a8-d1f1-fa4d-a270-083842a314fe": {
+        "source": "Chiral Crystals (M)",
+        "target": "Хіральні кристали (M)"
+      },
+      "afa4cfac-e979-104d-a0da-ecd2a8f14b58": {
+        "source": "A medium-sized batch of various chemicals, for use with a chiral printer.\nRecycling chemicals at facilities allows them to be used as materials for fabricating equipment. They can also be used to repair and upgrade zip-lines.",
+        "target": ""
+      },
+      "6de47bb4-3a69-0d49-bdc8-285ebe2de5e7": {
+        "source": "A large batch of special alloys, for use with a chiral printer.\nRecycling these alloys at facilities allows them to be used as materials for fabricating equipment. They can also be used to upgrade and repair safe houses and other structures.",
+        "target": ""
+      },
+      "7d47dcb5-83ad-864c-a589-1f5b391a7712": {
+        "source": "A large batch of various chemicals, for use with a chiral printer.\nRecycling chemicals at facilities allows them to be used as materials for fabricating equipment. They can also be used to repair and upgrade zip-lines.",
+        "target": ""
+      },
+      "6a5b12b6-0e11-0945-987d-35b637f88749": {
+        "source": "Chiral Crystal (L)",
+        "target": ""
+      },
+      "44c4e4c1-e3db-c345-8b9f-164bc146eed2": {
+        "source": "A batch of special metals for chiral printing. Although these are used in the same way as ordinary metals, they are especially dense, and this medium-sized batch is as effective as a very large batch of ordinary metals—and rather heavy as a result.\nThese metals are not in general circulation. Recycling them at facilities will allow them to be used as materials for fabricating equipment.\nThey can also be used to repair and upgrade postboxes, bridges, and other structures.",
+        "target": ""
+      },
+      "2de5b3c3-19af-934a-af21-117b4f156e9c": {
+        "source": "A very large batch of various chemicals, for use with a chiral printer.\nRecycling chemicals at facilities allows them to be used as materials for fabricating equipment. They can also be used to repair and upgrade zip-lines.\nThis batch of chemicals has been maximally condensed, meaning that it contains even more than an ordinary batch of the same size. Be aware, however, that it is also extremely heavy as a result.",
+        "target": ""
+      },
+      "23c0f4cb-9a9c-6047-bb2b-531a300f19f1": {
+        "source": "Chemicals ({0})",
+        "target": ""
+      },
+      "970539cd-e0e6-2d41-9cfe-fefbada15d6e": {
+        "source": "A batch of special resins. Although these are used in the same way as ordinary resins, they are especially dense, and this small batch is as effective as a large batch of ordinary resins—and rather heavy as a result.\nThese resins are not in general circulation. Recycling them at facilities will allow them to be used as materials for fabricating equipment.\nThey can also be used to repair and upgrade structures.",
+        "target": ""
+      },
+      "d06edecd-73e9-6e4a-8695-03705defa3f6": {
+        "source": "Chemicals (High-Density: {0})",
+        "target": ""
+      },
+      "da1825ce-a4ee-f24a-bad3-bcfbea52a22b": {
+        "source": "A medium-sized batch of various metals, for use with a chiral printer.\nRecycling metals at facilities allows them to be used as materials for fabricating equipment. They can also be used to repair and upgrade postboxes, bridges, and other structures.",
+        "target": ""
+      },
+      "a67935d6-be28-954d-b564-90d6b7bbd1a1": {
+        "source": "A batch of special resins. Although these are used in the same way as ordinary resins, they are especially dense, and this medium-sized batch is as effective as a very large batch of ordinary resins—and rather heavy as a result.\nThese resins are not in general circulation. Recycling them at facilities will allow them to be used as materials for fabricating equipment.\nThey can also be used to repair and upgrade structures.",
+        "target": ""
+      },
+      "10f6b0d8-00e9-8b4f-81c4-435940e67c02": {
+        "source": "A very large batch of special alloys, for use with a chiral printer.\nRecycling these alloys at facilities allows them to be used as materials for fabricating equipment. They can also be used to upgrade and repair safe houses and other structures.",
+        "target": ""
+      },
+      "d86292d9-6a98-6a4a-a640-2c577975ee89": {
+        "source": "A batch of special ceramics. Although these are used in the same way as ordinary ceramics, they are especially dense, and this small batch is as effective as a large batch of ordinary ceramics—and rather heavy as a result.\nThese ceramics are not in general circulation. Recycling them at facilities will allow them to be used as materials for fabricating equipment.\nThey can also be used to repair and upgrade roads.",
+        "target": ""
+      },
+      "d042addb-0285-e344-9926-5bb9262a4bc2": {
+        "source": "A very large batch of special alloys, for use with a chiral printer.\nRecycling these alloys at facilities allows them to be used as materials for fabricating equipment. They can also be used to upgrade and repair safe houses and other structures.\nThis batch of special alloys has been condensed even further, meaning that it contains even more than an ordinary batch of the same size. Be aware, however, that it is heavier still as a result.",
+        "target": ""
+      },
+      "a18a29e2-741e-e347-8261-b0b322b78012": {
+        "source": "Metals (Lightweight: {0})",
+        "target": ""
+      },
+      "7187ace6-f2cc-8d4d-b999-5084ccdc2939": {
+        "source": "Ceramics (High-Density: {0})",
+        "target": ""
+      },
+      "4702a4e9-813a-ce47-8e7d-1e02bfc3ce43": {
+        "source": "A very large batch of ceramics, for use with a chiral printer.\nRecycling ceramics at facilities allows them to be used as materials for fabricating equipment. They can also be used to repair and upgrade roads.\nThis batch of ceramics has been condensed, meaning that it contains more than an ordinary batch of the same size. Be aware, however, that it is also heavier as a result.",
+        "target": ""
+      },
+      "70532dea-532f-6345-ab7a-04fb529755d0": {
+        "source": "A very large batch of various resins, for use with a chiral printer.\nRecycling resins at facilities allows them to be used as materials for fabricating equipment. They can also be used to repair and upgrade structures.\nThis batch of resins has been maximally condensed, meaning that it contains even more than an ordinary batch of the same size. Be aware, however, that it is also extremely heavy as a result.",
+        "target": ""
+      },
+      "f7a9fbeb-db57-8348-b939-4292966348d6": {
+        "source": "Special Alloys (High-Density: {0})",
+        "target": ""
+      },
+      "c2e4f3ee-e2d3-ef4a-bd60-9afce6ac1417": {
+        "source": "A very large batch of various chemicals, for use with a chiral printer.\nRecycling chemicals at facilities allows them to be used as materials for fabricating equipment. They can also be used to repair and upgrade zip-lines.",
+        "target": ""
+      },
+      "4a7fd8f3-ce56-df47-ae9f-e99e22026ee5": {
+        "source": "An extra-large batch of special resins. Although these are used in the same way as ordinary resins, they are extremely light.\nOnly certain facilities can deal with these resins, but recycling them there will allow them to be used as materials for fabricating equipment.\nThey can also be used to repair and upgrade structures.",
+        "target": ""
+      },
+      "0af131f6-f0c8-7248-911c-6d19b3d2f362": {
+        "source": "Chemicals (Lightweight: {0})",
+        "target": ""
+      },
+      "507ef1f6-3bad-664b-9e14-d2f31cf7cdd8": {
+        "source": "Resins (Lightweight: {0})",
+        "target": ""
+      },
+      "87ca47f8-5014-f84f-b7cd-fa5d8f91d281": {
+        "source": "A batch of very special alloys. Although these are used in the same way as ordinary special alloys, they are especially dense, and this small batch is as effective as a large batch of ordinary special alloys—and rather heavy as a result.\nThese alloys are not in general circulation. Recycling them at facilities will allow them to be used as materials for fabricating equipment.\nThey can also be used to upgrade and repair safe houses and other structures.",
+        "target": ""
+      },
+      "4f0e87f8-5fcc-f347-9c5b-d8820d215122": {
+        "source": "A very large batch of special alloys, for use with a chiral printer.\nRecycling these alloys at facilities allows them to be used as materials for fabricating equipment. They can also be used to upgrade and repair safe houses and other structures.\nThis batch of special alloys has been condensed, meaning that it will produce more than an ordinary batch of the same size. Be aware, however, that it is also heavier as a result.",
+        "target": ""
+      },
+      "fabaf6fb-63ca-1749-91c6-fc38d2eeb19c": {
+        "source": "A very large batch of various metals, for use with a chiral printer.\nRecycling metals at facilities allows them to be used as materials for fabricating equipment. They can also be used to repair and upgrade postboxes, bridges, and other structures.\nThis batch of metals has been maximally condensed, meaning that it contains even more than an ordinary batch of the same size. Be aware, however, that it is also extremely heavy as a result.",
+        "target": ""
+      }
+    },
+    "localized/sentences/ds_ui/ds_baggage_name/simpletext.core": {
+      "87609201-432b-7343-af0a-0463b011adf6": {
+        "source": "Resins",
+        "target": ""
+      },
+      "38055503-220e-904e-9d6c-8977be1f9fac": {
+        "source": "Resins",
+        "target": ""
+      },
+      "6d8de406-ba1d-794a-9576-2167e6b0b5ba": {
+        "source": "Resins",
+        "target": ""
+      },
+      "8923170a-0892-904d-be50-5946d552b6ae": {
+        "source": "A very large batch of various metals, primarily used in the fabrication of weapons. Includes iron, aluminum, lead, and more.",
+        "target": "Дуже велика партія різноманітних металів, які використовуються в основному для виготовлення зброї. Містить залізо, алюміній, свинець тощо."
+      },
+      "ca30070d-5ab9-6f4f-b7e6-4f30bcac6bfb": {
+        "source": "Special Alloys (S)",
+        "target": "Спеціальні сплави (S)"
+      },
+      "a0507917-b32d-0f4b-bffa-78b9f103b1b4": {
+        "source": "Metals (M)",
+        "target": "Метали (M)"
+      },
+      "d804f417-800e-6049-b9ef-2170f8865450": {
+        "source": "A medium-sized batch of various metals, primarily used in the fabrication of weapons. Includes iron, aluminum, lead, and more.",
+        "target": "Середньорозмірна партія різноманітних металів, які використовуються в основному для виготовлення зброї. Містить залізо, алюміній, свинець тощо."
+      },
+      "55e0321b-04a9-774d-80b1-b2d483e0a433": {
+        "source": "A medium-sized batch of resins for use with a chiral printer. This is cargo for delivery, and therefore cannot be used.",
+        "target": ""
+      },
+      "abe9cd20-2632-0e43-b6fd-8e25d7e91943": {
+        "source": "Resins (XL)",
+        "target": "Смоли (XL)"
+      },
+      "9f738a22-85ec-3740-a6d4-7f2da5d992c8": {
+        "source": "A small batch of various ceramics, primarily used in construction. Includes glass, cement, plaster, and more.",
+        "target": "Мала партія різноманітної кераміки, яка використовується в основному для будівництва. Містить скло, цемент, гіпс тощо."
+      },
+      "710c6c26-f987-be40-8c64-27bad2c2d0a4": {
+        "source": "Resins",
+        "target": ""
+      },
+      "8c796d43-2905-1046-932d-90144bca63b3": {
+        "source": "A medium-sized batch of various resins, primarily used in the fabrication of tools. Includes rubber, silicone, plastic, polymers, and more.",
+        "target": "Середньорозмірна партія різноманітних смол, які використовуються в основному для виготовлення інструментів. Містить гуму, силікон, пластик, полімери тощо."
+      },
+      "ab9a7345-766e-b845-8030-6960c6e0099c": {
+        "source": "Resins",
+        "target": ""
+      },
+      "fcc4214b-a025-f747-a82a-675716151ce0": {
+        "source": "A small batch of various metals, primarily used in the fabrication of weapons. Includes iron, aluminum, lead, and more.",
+        "target": "Мала партія різноманітних металів, які використовуються в основному для виготовлення зброї. Містить залізо, алюміній, свинець тощо."
+      },
+      "ce933551-99c3-264a-a719-daafe6eac84c": {
+        "source": "A small batch of resins for use with a chiral printer. This is cargo for delivery, and therefore cannot be used.",
+        "target": ""
+      },
+      "f1b30252-f47e-9d4b-b090-27948818a6b7": {
+        "source": "Metals (L)",
+        "target": "Метали (L)"
+      },
+      "7185b357-d9a5-d84f-b2cc-65bd37efc32d": {
+        "source": "A small batch of various chemicals, primarily used in batteries, coatings, and consumable goods. Includes nitrogen, lithium, phosphorus, sulfur, carbon, and more.",
+        "target": "Мала партія різноманітних хімікатів, які використовуються в основному в акумуляторах, покриттях і витратних матеріалах. Містить нітроген, літій, фосфор, сірку, вуглець тощо."
+      },
+      "c0f73d58-acda-134e-8cdf-3e0854b572f5": {
+        "source": "Resins",
+        "target": ""
+      },
+      "24d4675a-5187-9a44-96f6-0cfd688b2729": {
+        "source": "Special Alloys (L)",
+        "target": "Спеціальні сплави (L)"
+      },
+      "9d41225d-10bb-9b42-b136-d10bf0559311": {
+        "source": "A small batch of resins for use with a chiral printer. This is cargo for delivery, and therefore cannot be used.",
+        "target": ""
+      },
+      "119a8b62-442d-894a-a39e-ae22042a6b12": {
+        "source": "Ceramics (M)",
+        "target": "Кераміка (M)"
+      },
+      "b2beba65-d770-7e4f-800a-73bc2a56714e": {
+        "source": "A small batch of resins for use with a chiral printer. This is cargo for delivery, and therefore cannot be used.",
+        "target": ""
+      },
+      "43465c66-6ecb-7a4b-bdcf-06eb6e930294": {
+        "source": "A very large batch of resins for use with a chiral printer. This is cargo for delivery, and therefore cannot be used.",
+        "target": ""
+      },
+      "3d3e5870-2b3a-df4e-a029-de6ac90eccbc": {
+        "source": "A very large batch of various chemicals, primarily used in batteries, coatings, and consumable goods. Includes nitrogen, lithium, phosphorus, sulfur, carbon, and more.",
+        "target": "Дуже велика партія різноманітних хімікатів, які використовуються в основному в акумуляторах, покриттях і витратних матеріалах. Містить нітроген, літій, фосфор, сірку, вуглець тощо."
+      },
+      "dad46571-1fba-7241-aa5b-104ece548df3": {
+        "source": "A large batch of various resins, primarily used in the fabrication of tools. Includes rubber, silicone, plastic, polymers, and more.",
+        "target": "Велика партія різноманітних смол, які використовуються в основному для виготовлення інструментів. Містить гуму, силікон, пластик, полімери тощо."
+      },
+      "c7aaad79-6339-824d-b45a-99d3a0281226": {
+        "source": "Chemicals (S)",
+        "target": "Хімікати (S)"
+      },
+      "5b89dc7a-cfbe-c741-a329-051536014a11": {
+        "source": "Resins (S)",
+        "target": "Смоли (S)"
+      },
+      "7a18a086-110a-a44d-92a3-c9b652bb522e": {
+        "source": "A very large batch of various ceramics, primarily used in construction. Includes glass, cement, plaster, and more.",
+        "target": "Дуже велика партія різноманітної кераміки, яка використовується в основному для будівництва. Містить скло, цемент, гіпс тощо."
+      },
+      "ce92d686-17ce-fa4c-b9f8-a043f483ea67": {
+        "source": "Metals (XL)",
+        "target": "Метали (XL)"
+      },
+      "b87d018c-1faf-764d-a718-d1c9fa4c0efd": {
+        "source": "A large batch of various metals, primarily used in the fabrication of weapons. Includes iron, aluminum, lead, and more.",
+        "target": "Велика партія різноманітних металів, які використовуються в основному для виготовлення зброї. Містить залізо, алюміній, свинець тощо."
+      },
+      "2e816595-f6cc-d248-8c4f-876e200c1713": {
+        "source": "Chemicals (M)",
+        "target": "Хімікати (M)"
+      },
+      "1fcd5597-f0d4-b742-a829-d813bc7c3088": {
+        "source": "Chemicals (L)",
+        "target": "Хімікати (L)"
+      },
+      "e1c3259e-1c7a-2542-af08-f91423e95684": {
+        "source": "A very large batch of resins for use with a chiral printer. This is cargo for delivery, and therefore cannot be used.",
+        "target": ""
+      },
+      "18b43ba1-2178-a543-b4ee-e4d3df026cab": {
+        "source": "A small batch of various resins, primarily used in the fabrication of tools. Includes rubber, silicone, plastic, polymers, and more.",
+        "target": "Мала партія різноманітних смол, які використовуються в основному для виготовлення інструментів. Містить гуму, силікон, пластик, полімери тощо."
+      },
+      "5d5b00a7-9c28-2541-93a5-aaf1a2aa4a32": {
+        "source": "Metals (S)",
+        "target": "Метали (S)"
+      },
+      "a2e14ca7-bb50-2a4f-95b0-f9b89ae30a0e": {
+        "source": "A large batch of various ceramics, primarily used in construction. Includes glass, cement, plaster, and more.",
+        "target": "Велика партія різноманітної кераміки, яка використовується в основному для будівництва. Містить скло, цемент, гіпс тощо."
+      },
+      "c3a31fa8-e109-6c43-9074-124bac24e9f2": {
+        "source": "Special Alloys (M)",
+        "target": "Спеціальні сплави (M)"
+      },
+      "21a94fab-8552-124c-84f7-2ab5f527dc6b": {
+        "source": "Chemicals (XL)",
+        "target": "Хімікати (XL)"
+      },
+      "012851b0-3244-0843-8eb0-04864929144e": {
+        "source": "A very large batch of various resins, primarily used in the fabrication of tools. Includes rubber, silicone, plastic, polymers, and more.",
+        "target": "Дуже велика партія різноманітних смол, які використовуються в основному для виготовлення інструментів. Містить гуму, силікон, пластик, полімери тощо."
+      },
+      "7b1624b1-21ac-3146-ab76-f381fb7d5a2e": {
+        "source": "A small batch of resins for use with a chiral printer. This is cargo for delivery, and therefore cannot be used.",
+        "target": ""
+      },
+      "2bd299b3-e188-5845-9a34-70ffd60cb4e9": {
+        "source": "A small batch of resins for use with a chiral printer. This is cargo for delivery, and therefore cannot be used.",
+        "target": ""
+      },
+      "e67572b5-1544-5645-b7f2-165ec69bc78c": {
+        "source": "Resins",
+        "target": ""
+      },
+      "fe100fb7-6041-934a-ad2f-d29bc285a66b": {
+        "source": "Ceramics (320)",
+        "target": ""
+      },
+      "72b186c0-0d50-1c41-8b38-38824e7d240d": {
+        "source": "Ceramics (S)",
+        "target": "Кераміка (S)"
+      },
+      "1836dcc1-289d-4d46-9b86-9da5d653209e": {
+        "source": "A small batch of various alloys with special crystalline structures. Includes amorphous metal​s, quasicrystals, nanoalloys, and more.",
+        "target": "Мала партія різноманітних сплавів з особливими кристалічними структурами. Містить аморфні метали, наносплави тощо."
+      },
+      "09b3afca-7e3a-6647-92c9-703008a95aed": {
+        "source": "A small batch of resins for use with a chiral printer. This is cargo for delivery, and therefore cannot be used.",
+        "target": ""
+      },
+      "d51509cc-1eb6-2a49-9fa4-b4cc3d372d1b": {
+        "source": "Special Alloys (XL)",
+        "target": "Спеціальні сплави (XL)"
+      },
+      "2ef88cd1-1b64-7446-a56b-3b91e03037ac": {
+        "source": "A medium-sized batch of various ceramics, primarily used in construction. Includes glass, cement, plaster, and more.",
+        "target": "Середньорозмірна партія різноманітної кераміки, яка використовується в основному для будівництва. Містить скло, цемент, гіпс тощо."
+      },
+      "cc9b18d6-2d64-fa4e-a337-446ade14c123": {
+        "source": "A large batch of various chemicals, primarily used in batteries, coatings, and consumable goods. Includes nitrogen, lithium, phosphorus, sulfur, carbon, and more.",
+        "target": "Велика партія різноманітних хімікатів, які використовуються в основному в акумуляторах, покриттях і витратних матеріалах. Містить нітроген, літій, фосфор, сірку, вуглець тощо."
+      },
+      "cccd1ada-af38-e346-bc12-a7fe9bf74d34": {
+        "source": "A very large batch of various alloys with special crystalline structures. Includes amorphous metal​s, quasicrystals, nanoalloys, and more.",
+        "target": "Дуже велика партія різноманітних сплавів з особливими кристалічними структурами. Містить аморфні метали, наносплави тощо."
+      },
+      "513d68e0-53a0-654f-83df-6369ee0cd6e0": {
+        "source": "Ceramics (XL)",
+        "target": "Кераміка (XL)"
+      },
+      "538f08e1-0e07-564b-90b7-3d2b7fe6ff03": {
+        "source": "Resins (L)",
+        "target": "Смоли (L)"
+      },
+      "948346e8-c8dc-a147-a780-64b8ad71c0f4": {
+        "source": "Ceramics (L)",
+        "target": "Кераміка (L)"
+      },
+      "45a706ea-7d39-d546-a21d-f368d1ff0070": {
+        "source": "Resins",
+        "target": ""
+      },
+      "ab62e7ea-c70e-a44e-814c-a16d3c253374": {
+        "source": "A large batch of various alloys with special crystalline structures. Includes amorphous metal​s, quasicrystals, nanoalloys, and more.",
+        "target": "Велика партія різноманітних сплавів з особливими кристалічними структурами. Містить аморфні метали, наносплави тощо."
+      },
+      "9838ffea-761c-9141-acc2-b47ba43c56ab": {
+        "source": "Resins",
+        "target": ""
+      },
+      "b387a0ed-ee30-0647-91a8-9b1c72e641eb": {
+        "source": "A medium-sized batch of various alloys with special crystalline structures. Includes amorphous metal​s, quasicrystals, nanoalloys, and more.",
+        "target": "Середньорозмірна партія різноманітних сплавів з особливими кристалічними структурами. Містить аморфні метали, наносплави тощо."
+      },
+      "1e2649f0-8f47-104f-83e4-de8603985761": {
+        "source": "A medium-sized batch of various chemicals, primarily used in batteries, coatings, and consumable goods. Includes nitrogen, lithium, phosphorus, sulfur, carbon, and more.",
+        "target": "Середньорозмірна партія різноманітних хімікатів, які використовуються в основному в акумуляторах, покриттях і витратних матеріалах. Містить нітроген, літій, фосфор, сірку, вуглець тощо."
+      },
+      "d6d45df0-7231-7b46-abc3-a32344487077": {
+        "source": "Resins (M)",
+        "target": "Смоли (M)"
+      },
+      "926c68f3-b9bf-a34f-a91a-557759d71227": {
+        "source": "Resins",
+        "target": ""
+      },
+      "290280f5-36df-a84a-99c4-65c2f587ddf8": {
+        "source": "A small batch of resins for use with a chiral printer. This is cargo for delivery, and therefore cannot be used.",
+        "target": ""
+      },
+      "cbc188f7-f84a-2540-a00b-df4d94397a57": {
+        "source": "Resins",
+        "target": ""
+      },
+      "091667f9-cad4-574a-bd9a-825902fbf189": {
+        "source": "A small batch of resins for use with a chiral printer. This is cargo for delivery, and therefore cannot be used.",
+        "target": ""
+      }
+    },
+    "localized/sentences/ds_ui/ds_dialog_nxt/simpletext.core": {
+      "4263cc32-57b5-c045-a52c-2f4e713326c8": {
+        "source": "Save data created. Select \"Load Game (Death Stranding Save Data)\" from the Death Stranding Director's Cut Title Screen to load this data.",
+        "target": ""
+      },
+      "df7c5396-ba41-f449-a533-c9f181b18752": {
+        "source": "Your current save data will be exported for use with Death Stranding Director's Cut. Only one version of this exported save data can exist. If data has already been created, it will be overwritten.\nPlease note that due to new specifications for the Director's Cut, some terrain data has been updated, and certain changes will be applied to save data on import. These changes are listed below.\nPlease check this list before selecting \"OK\" to proceed. If you do not wish to proceed, select \"Cancel\" to go back.\n\n・ All active standard orders and supply requests will be canceled.\n\n・ Online shared content including cargo, structures, and vehicles will be lost, and replaced with new shared content from a new server.\n\n・ Any cargo for delivery picked up while out in the field will be lost.\n\n・Other cargo will be dealt with as follows:\nCargo carried by Sam will be retained.\nCargo in private lockers will be retained.\nCargo in postboxes or safe houses that could not be rebuilt will be lost.\n\n・ All other cargo in the field will be lost.\n\n・ All vehicles left in the field will be lost. Vehicles stored in garages that you have built will remain in place.\nVehicles stored in safe houses shared online or safe houses that could not be rebuilt will be lost.\n\n・ Structures that you have built (including signs, cairns, and golden toadstools) will be re-deployed when you approach their location.\nStructures that cannot be redeployed due to terrain changes resulting from new specifications will be lost.\n\n・ Previously unlocked rewards, mail, interviews, and tips will remain available.\n\n・ Newly added story-related rewards, mail, tips, etc. will be available immediately if you have made sufficient progress through the story, and will be accessible from their respective menus.\n\n・ Any recovered memory chips will be retained.\n\n・ MULEs, BTs, and other enemies will be returned to their original states. All corpses will also be removed from the game world.\n\n・ In most cases, craters caused by voidouts will disappear, and the terrain will be returned to its original state. However, some craters will remain in place.\n\n・ Paths that you have created will remain in place. However, these paths will not be shared with other players.\n\n・ Rebuilt roads will remain in place.\n\n・ The amounts of materials donated to facilities will remain as they are.\n\n・ All achievements earned will be retained, apart from in cases where the conditions for earning an achievement have changed and the new conditions have not been met.\n\n・ Information on other players with whom you formed Bridge Links or Strand Contracts will be lost. All other information will be retained.\n\n・ Any adjusted options will not be carried over.",
+        "target": ""
+      },
+      "24ceafac-4b3f-fc49-a751-c5c3f4bd9c28": {
+        "source": "You can't export your save data while Sam has active Orders.\nComplete any active Orders first, then try again.",
+        "target": ""
+      },
+      "e601dcae-fe52-7244-81dc-8a8c37d40f44": {
+        "source": "Your current save data will be exported for use with Death Stranding Director's Cut. Only one version of this exported save data can exist. If data has already been created, it will be overwritten.\nPlease note that due to new specifications for the Director's Cut, some terrain data has been updated, and certain changes will be applied to save data on import. These changes are listed below.\nPlease check this list before selecting \"OK\" to proceed. If you do not wish to proceed, select \"Cancel\" to go back.\n\n・ All active standard orders and supply requests will be canceled.\n\n・ Online shared content including cargo, structures, and vehicles will be lost, and replaced with new shared content from a new server.\n\n・ Any cargo for delivery picked up while out in the field will be lost.\n\n・Other cargo will be dealt with as follows:\nCargo carried by Sam will be retained.\nCargo in private lockers will be retained.\nCargo in postboxes or safe houses that could not be rebuilt will be lost.\n\n・ All other cargo in the field will be lost.\n\n・ All vehicles left in the field will be lost. Vehicles stored in garages that you have built will remain in place.\nVehicles stored in safe houses shared online or safe houses that could not be rebuilt will be lost.\n\n・ Structures that you have built (including signs, cairns, and golden toadstools) will be re-deployed when you approach their location.\nStructures that cannot be redeployed due to terrain changes resulting from new specifications will be lost.\n\n・ Previously unlocked rewards, mail, interviews, and tips will remain available.\n\n・ Newly added story-related rewards, mail, tips, etc. will be available immediately if you have made sufficient progress through the story, and will be accessible from their respective menus.\n\n・ Any recovered memory chips will be retained.\n\n・ MULEs, BTs, and other enemies will be returned to their original states. All corpses will also be removed from the game world.\n\n・ In most cases, craters caused by voidouts will disappear, and the terrain will be returned to its original state. However, some craters will remain in place.\n\n・ Paths that you have created will remain in place. However, these paths will not be shared with other players.\n\n・ Rebuilt roads will remain in place.\n\n・ The amounts of materials donated to facilities will remain as they are.\n\n・ All achievements earned will be retained, apart from in cases where the conditions for earning an achievement have changed and the new conditions have not been met.\n\n・ Information on other players with whom you formed Bridge Links or Strand Contracts will be lost. All other information will be retained.\n\n・ Any adjusted options will not be carried over.",
+        "target": ""
+      },
+      "b27cb0af-f892-d144-b4b0-d5b91a0f2e60": {
+        "source": "Save data cannot be exported when the game cannot be saved. This includes:\n・ When you are using a vehicle.\n・ When Sam or his cargo are in danger.\n・ At certain points in the story.\n・ Certain other specific times.",
+        "target": ""
+      },
+      "cce615c4-8240-ae43-bdfd-2b4347a8c247": {
+        "source": "Save data could not be created.\n\nError Code: {0}",
+        "target": ""
+      },
+      "e15c63e9-64d7-134d-9656-4eebce6e2331": {
+        "source": "This option can only be selected when you're standing at a delivery terminal.",
+        "target": ""
+      }
+    },
+    "localized/sentences/ds_ui/ds_menu_main/simpletext.core": {
+      "93cba09e-4a17-bc48-9fd9-731998dd05b5": {
+        "source": "Export Save Data",
+        "target": ""
+      },
+      "c26feeba-b570-bb45-a77b-120b5cbaedd4": {
+        "source": "Export your current save data for use in Death Stranding Director's Cut.",
+        "target": ""
+      }
+    },
+    "localized/sentences/ds_ui/ds_prototype/simpletext.core": {
+      "6dc56100-f710-8749-af3c-7c66ab418603": {
+        "source": "Exposure",
+        "target": ""
+      },
+      "975e3d05-a07e-f342-a943-a50297e962c4": {
+        "source": "EffectStrength",
+        "target": ""
+      },
+      "b9fe370f-8a5a-5346-8f3e-8ca6ff7c1f82": {
+        "source": "BB Pose",
+        "target": ""
+      },
+      "0751bb13-8105-9e48-a59a-11f3788572b3": {
+        "source": "All",
+        "target": ""
+      },
+      "91c1ff16-cfa0-b04e-9705-f90a5cedad0f": {
+        "source": "ExitPhotoMode",
+        "target": ""
+      },
+      "f58e3617-907a-5545-a604-18e7a09c8111": {
+        "source": "Description here",
+        "target": ""
+      },
+      "a81c2e18-98dc-8349-99c0-f147b5bb5a45": {
+        "source": "Logo",
+        "target": ""
+      },
+      "79401a19-65ac-9743-8ad2-cf748ed06d6b": {
+        "source": "Size",
+        "target": ""
+      },
+      "d7bc041d-b306-7d4c-a802-c9bdcb3866ad": {
+        "source": "Brightness",
+        "target": ""
+      },
+      "fdfe571f-4af2-db49-96cb-c89c1c2caf90": {
+        "source": "Auto",
+        "target": ""
+      },
+      "ee938b22-cd07-4c46-ba9e-fb8fa72f4940": {
+        "source": "Camera",
+        "target": ""
+      },
+      "60889e23-f0f2-1740-b98f-b4201a5aaa3f": {
+        "source": "Walk toggle switch enabled. (Keyboard)",
+        "target": ""
+      },
+      "0c79ac25-051e-3448-b2d1-c4e40200cba9": {
+        "source": "PlayerVisible",
+        "target": ""
+      },
+      "cf59df25-3578-9e44-9c17-354c194a17f1": {
+        "source": "Near Lake Knot City",
+        "target": ""
+      },
+      "3649f830-ef06-2248-a29c-ea8503a02fa5": {
+        "source": "New Game",
+        "target": ""
+      },
+      "4a334831-e390-3941-b99c-cc0eed29f477": {
+        "source": "AngleOfView",
+        "target": ""
+      },
+      "0d4bc831-a003-b242-b656-5e6d99636fdd": {
+        "source": "ColorEffect",
+        "target": ""
+      },
+      "d2e43938-a4c3-614b-9c31-d67fd103c381": {
+        "source": "ADS toggle switching enabled (Keyboard)",
+        "target": ""
+      },
+      "42264738-b0f7-c041-9eda-b859c6fac408": {
+        "source": "Angle X",
+        "target": ""
+      },
+      "8647b33b-eac3-d04f-a155-9859d7aca118": {
+        "source": "Brace toggle switching enabled (pad)",
+        "target": ""
+      },
+      "bffe513e-aef5-4d4b-836d-95f266b3b187": {
+        "source": "Load",
+        "target": ""
+      },
+      "d5c8a042-76d3-0448-99d8-49c8e4bd3fc3": {
+        "source": "SAM　Focus",
+        "target": ""
+      },
+      "f50fe242-706a-5e40-8b0b-06580643f487": {
+        "source": "Desc",
+        "target": ""
+      },
+      "2632db44-d687-9f49-a300-ed2ee47292c7": {
+        "source": "BB Expression",
+        "target": ""
+      },
+      "06b6a447-830e-b245-b126-390769504f30": {
+        "source": "Expression_Pose",
+        "target": ""
+      },
+      "7727be47-2226-a54c-8588-480a28dc259e": {
+        "source": "Sprint toggle switching enabled (pad)",
+        "target": ""
+      },
+      "d2015c4b-cad8-e34f-914d-92d08d0ade08": {
+        "source": "DepthOfField",
+        "target": ""
+      },
+      "97f11f59-2cf8-3f46-89ce-2849eb542e90": {
+        "source": "KeyAssign Settings for PC",
+        "target": ""
+      },
+      "9c57c85b-a8ce-ba40-b231-831dbe17f9e1": {
+        "source": "ADS toggle switching enabled (Keyboard)",
+        "target": ""
+      },
+      "84c6925e-f883-fe4b-b753-e1db65784ba2": {
+        "source": "Vignette",
+        "target": ""
+      },
+      "d8620462-0185-ef42-8171-f592ece7e155": {
+        "source": "Sprint toggle switch enabled. (Keyboard)",
+        "target": ""
+      },
+      "2f75ce62-9f01-864b-914d-7f88111f9e57": {
+        "source": "Mouse Camera Vertical Input",
+        "target": ""
+      },
+      "3c3c5663-bacb-5948-ae4f-1bba9fe5b785": {
+        "source": "UIVisible",
+        "target": ""
+      },
+      "92ee0466-1e4c-9f45-b9da-0b5ef094cccc": {
+        "source": "Vignette",
+        "target": ""
+      },
+      "7a1e1166-9bb3-a646-af31-de9aa9c175a9": {
+        "source": "Roll",
+        "target": ""
+      },
+      "d3f12e6a-999b-e34b-905f-97b3ba516d6d": {
+        "source": "Date",
+        "target": ""
+      },
+      "dbf90370-0582-2f41-b460-9fb9d9499050": {
+        "source": "ADS toggle switching enabled (pad)",
+        "target": ""
+      },
+      "12b39874-28a2-6a46-a008-8e52ab5eeb0f": {
+        "source": "Mouse Camera Horizontal Input",
+        "target": ""
+      },
+      "29ed1b78-1904-8c4c-a045-f9cbffbb8f99": {
+        "source": "BB Focus",
+        "target": ""
+      },
+      "c093a47d-f867-2a40-aa09-b04c41ed9b31": {
+        "source": "Quick",
+        "target": ""
+      },
+      "4df1c97e-1cf8-0145-a319-15e0d7e6110a": {
+        "source": "This is a dialogue test. Select \"Yes\" or \"No\".",
+        "target": ""
+      },
+      "2cedfc81-55a4-8e47-b5c7-52f77cb9abbe": {
+        "source": "Focus",
+        "target": ""
+      },
+      "c628bf82-b368-fb4e-8f57-da27580a98d5": {
+        "source": "Grab toggle switch enabled. (Keyboard)",
+        "target": ""
+      },
+      "66961884-5f44-1d42-9994-a241e44c70ed": {
+        "source": "IK Weight",
+        "target": ""
+      },
+      "18d87086-1edd-7741-8a71-cb14a061d12c": {
+        "source": "Angle Y",
+        "target": ""
+      },
+      "ef429888-1ee9-5840-8555-e00979c54241": {
+        "source": "SortColumn : {0}",
+        "target": ""
+      },
+      "3fed848c-e2ca-7a40-bd66-a8d1f2003f15": {
+        "source": "FP toggle switch enabled. (Keyboard)",
+        "target": ""
+      },
+      "1f0e2893-8261-c44e-9ec6-412aefb26ea7": {
+        "source": "Grab toggle switching enabled (pad)",
+        "target": ""
+      },
+      "9ce7a499-9607-624c-b2e2-ef6b80f42775": {
+        "source": "Brightness",
+        "target": ""
+      },
+      "bb237ea1-568f-c746-858f-4497c6496d99": {
+        "source": "Frame",
+        "target": ""
+      },
+      "58f0f3a3-4f8c-7a4a-ab5f-f1ea0329004c": {
+        "source": "Cliff",
+        "target": ""
+      },
+      "15749daa-3be8-6c48-b0f8-91c044a3f702": {
+        "source": "Enable Hot Key",
+        "target": ""
+      },
+      "175254ab-df86-0d43-a1c4-a2a9aa6240d1": {
+        "source": "SAM Expression",
+        "target": ""
+      },
+      "266d5eae-792f-9945-8271-1a58c38dcd16": {
+        "source": "A Region (Temp)",
+        "target": ""
+      },
+      "1fb59aaf-2b3f-164b-aba6-510a8a8ed12b": {
+        "source": "Title",
+        "target": ""
+      },
+      "d880c3b0-6b88-3f49-a635-df3e3852097d": {
+        "source": "SortOrder : {0}",
+        "target": ""
+      },
+      "e2c6bfb5-6447-0444-9938-b53ccbc0f1b9": {
+        "source": "\"No\" was selected.",
+        "target": ""
+      },
+      "0f8433bc-8ce7-7845-b11c-929efb6e869a": {
+        "source": "Brace toggle switch enabled. (Keyboard)",
+        "target": ""
+      },
+      "983e05be-96ee-b746-855b-922b57b80530": {
+        "source": "VignetteStrength",
+        "target": ""
+      },
+      "2103b0c0-f991-1343-a2a4-7b7754766809": {
+        "source": "Diaphragm",
+        "target": ""
+      },
+      "c59c52cb-3e98-eb46-b62e-985e058ce94c": {
+        "source": "DepthOfField",
+        "target": ""
+      },
+      "6839cacc-33e8-d443-8d16-493b7e0d978c": {
+        "source": "Options",
+        "target": ""
+      },
+      "e116e3d3-0744-434b-a077-fc47fde43ce6": {
+        "source": "Breath stop toggle switch enabled. (Keyboard)",
+        "target": ""
+      },
+      "05222fd7-eed2-ef43-9901-5857e16de552": {
+        "source": "Prototype Test",
+        "target": ""
+      },
+      "52ad8ddd-9187-e243-9fae-a0ce9de2fe50": {
+        "source": "Manual",
+        "target": ""
+      },
+      "dab89be1-4156-2a45-b287-bb4811290fd4": {
+        "source": "Waiting for KeyAssign......",
+        "target": ""
+      },
+      "2966a7e3-81f1-4f43-82de-cf7f50f28329": {
+        "source": "Asc",
+        "target": ""
+      },
+      "b81e66e5-3112-9f4a-a97b-b6213c0b10fb": {
+        "source": "Continue",
+        "target": ""
+      },
+      "97ab50e8-df2d-574e-abb1-b9f053a1e3ae": {
+        "source": "Invalid SaveData.",
+        "target": ""
+      },
+      "b0d8a2ec-661b-4c4a-8b36-73f935dd9767": {
+        "source": "SAM Pose",
+        "target": ""
+      },
+      "c8a084ed-d0c7-994f-bc42-15ba945e8cd5": {
+        "source": "Frame",
+        "target": ""
+      },
+      "9f012bf7-8e3a-6948-938f-82755f1ff399": {
+        "source": "Key Assign",
+        "target": ""
+      },
+      "8f8d14f9-1d29-1a41-9fee-d2d32a321cf1": {
+        "source": "\"Yes\" was selected.",
+        "target": ""
+      }
+    },
+    "localized/sentences/ds_ui/ds_tutorial_telop/simpletext.core": {
+      "3e8fe663-d954-4740-a87f-71a96e4a5f25": {
+        "source": "Exporting Save Data",
+        "target": ""
+      },
+      "abcd9efe-7eac-bd4a-a596-4e4624d90aa5": {
+        "source": "Save data from Death Stranding can be exported for use in Death Stranding Director's Cut.\nOpen the cuff links menu while standing at a delivery terminal, and select \"Export Save Data\".\nData cannot be exported while Orders for Sam are in progress. Complete any outstanding orders before exporting.\nIn order to load exported save data in Death Stranding Director's Cut, you will need to use the same account that was used to create the save data in Death Stranding.",
+        "target": ""
+      }
+    },
+    "localized/sentences/ds_ui/ds_update_information/simpletext.core": {
+      "a45b05d9-b7fe-f440-b591-388d88ea26da": {
+        "source": "Version 1.07\nAddition of save data conversion system.\n\nSave data from Death Stranding can be exported for use in Death Stranding Director's Cut.\nOpen the cuff links menu while standing at a delivery terminal, and select \"Export Save Data\".\nData cannot be exported while Orders for Sam are in progress. Complete any outstanding orders before exporting.\nIn order to load exported save data in Death Stranding Director's Cut, you will need to use the same account that was used to create the save data in Death Stranding.",
+        "target": "Версія 1.07\nДодано систему конвертації збережень.\n\nЗбереження з Death Stranding можна експортувати для використання в Death Stranding Director’s Cut.\nВідкрийте меню кайданів, коли стоїте біля термінала доставки, і виберіть «Експортувати збереження».\nДані неможливо експортувати, якщо є активні «Замовлення для Сема». Виконайте всі незавершені замовлення перед експортом.\nЩоб завантажити експортоване збереження в Death Stranding Director’s Cut, потрібно використовувати той самий обліковий запис, з якого було створене збереження в Death Stranding."
+      }
+    },
+    "localized/sentences/ds_ui/ds_updateinfo_pc/simpletext.core": {
+      "a3ffd623-f732-ea4c-822e-645c619e9c5f": {
+        "source": "Version 1.05\nAddition of \"Cyberpunk 2077\" collaboration content.\n\nAddition of \"Cyberpunk 2077\" collaboration missions and items.\nAdditional missions and items are unlocked during story progression. ",
+        "target": "Версія 1.05\nДодано вміст колаборації з Cyberpunk 2077.\n\nДодано місії й предмети з колаборації з Cyberpunk 2077.\nДодаткові місії та предмети розблоковуються з поступом сюжету. "
+      },
+      "fe4ef224-e92e-8843-b7a2-1b9e0983675d": {
+        "source": "Version 1.02\n\n・Key bind settings for \"Use/Dismount Vehicle\" can now be customized from the \"Perform Action\" and \"In Vehicle\" tabs.\n\n・Corrected an issue where some customized key bind settings would revert after restarting the game.\n\n・[Steam]\n　Corrected an issue where frame rate performance drops when using Steam Input.",
+        "target": "Версія 1.02\n\n・Призначення клавіш для дій «Кермувати / Залишити транспорт» тепер можна змінити у вкладках «Виконання дій» і «У транспорті».\n\n・Виправлено проблему, через яку деякі редаговані призначення клавіш скасовувалися після перезапуску гри.\n\n・[Steam]\n Виправлено проблему, через яку погіршувалася продуктивність під час використання введення Steam."
+      }
+    },
+    "localized/sentences/ingame/ingame_shared/simpletext.core": {
+      "0f769b0b-38ef-e411-88f5-005056a2001a": {
+        "source": ".",
+        "target": ""
+      },
+      "b1a4d820-92c9-e411-8517-005056a2001a": {
+        "source": ".",
+        "target": ""
+      },
+      "78a74021-92c9-e411-8517-005056a2001a": {
+        "source": ".",
+        "target": ""
+      },
+      "065e6621-92c9-e411-8517-005056a2001a": {
+        "source": ".",
+        "target": ""
+      },
+      "31e46a21-92c9-e411-8517-005056a2001a": {
+        "source": ".",
+        "target": ""
+      },
+      "1012a52d-e6d7-3c46-b5f4-e27e4fd6d472": {
+        "source": ".",
+        "target": ""
+      },
+      "1a238152-0919-da44-9529-d23cceeca8e4": {
+        "source": ".",
+        "target": ""
+      },
+      "56b0a466-ed05-a748-8188-50c176f4e1f8": {
+        "source": ".",
+        "target": ""
+      },
+      "f3bd2bde-a93d-7040-80fb-2645c0b9ecd1": {
+        "source": ".",
+        "target": ""
+      }
+    }
+  }
+}

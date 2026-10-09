@@ -1,0 +1,103 @@
+name: Build Localizer
+
+on:
+  workflow_dispatch: # Тільки ручний запуск одним кліком
+
+jobs:
+  build:
+    # Decima (tools/decima) і Oodle -- лише під Windows, MSVC на раннері вже є.
+    runs-on: windows-latest
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Setup Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: "20"
+
+      - name: Setup Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.13"
+
+      - name: Install Python dependencies
+        run: pip install -r requirements.txt
+
+      - name: Download Sources from Cloudflare R2
+        shell: bash
+        run: aws s3 cp s3://ds-localizer-sources/resources.zip resources.zip --endpoint-url https://${{ secrets.R2_ACCOUNT_ID }}.r2.cloudflarestorage.com
+        env:
+          AWS_ACCESS_KEY_ID: ${{ secrets.R2_ACCESS_KEY_ID }}
+          AWS_SECRET_ACCESS_KEY: ${{ secrets.R2_SECRET_ACCESS_KEY }}
+          AWS_DEFAULT_REGION: auto
+
+      - name: Extract Sources
+        run: Expand-Archive resources.zip -DestinationPath resources -Force
+
+      # Версія з Crowdin, свіжий переклад, winhttp.dll, архіви для обох видань, zip-пакети.
+      - name: Build
+        run: python scripts/build_all.py
+        env:
+          CROWDIN_TOKEN: ${{ secrets.CROWDIN_TOKEN }}
+
+      - name: Upload version info
+        uses: actions/upload-artifact@v4
+        with:
+          name: version-info
+          path: version-info/
+          if-no-files-found: error
+
+      - name: Upload build artifacts
+        uses: actions/upload-artifact@v4
+        with:
+          name: dist
+          path: |
+            dist/*.zip
+            resources/Localization/ds_untranslated.txt
+          if-no-files-found: error
+
+  release:
+    needs: build
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+
+    steps:
+      - name: Download all artifacts
+        uses: actions/download-artifact@v4
+        with:
+          path: artifacts/
+
+      - name: Read version info
+        id: version
+        run: |
+          test -s artifacts/version-info/version.txt
+          test -s artifacts/version-info/progress.txt
+          echo "version=$(cat artifacts/version-info/version.txt)" >> "$GITHUB_OUTPUT"
+          echo "progress=$(cat artifacts/version-info/progress.txt)" >> "$GITHUB_OUTPUT"
+          echo "date=$(date +'%d.%m.%Y')" >> "$GITHUB_OUTPUT"
+
+      - name: List artifacts
+        run: find artifacts/ -type f | head -50
+
+      - name: Publish GitHub Release
+        uses: softprops/action-gh-release@v2
+        with:
+          tag_name: v${{ steps.version.outputs.version }}
+          name: "Українізатор Death Stranding v${{ steps.version.outputs.version }}"
+          body: |
+            Збірка від ${{ steps.version.outputs.date }}.
+            Версія відповідає **${{ steps.version.outputs.progress }}%** затверджених перекладів на Crowdin.
+
+            **Встановлення:** розпакуйте архів для свого видання гри в теку гри (поруч із `ds.exe` / `DeathStranding.exe`). Файли гри не змінюються; щоб видалити, зітріть `winhttp.dll` і теку `localization`.
+
+            - `Death.Stranding.Directors.Cut.UA` — для DEATH STRANDING DIRECTOR'S CUT
+            - `Death.Stranding.UA` — для звичайної DEATH STRANDING
+
+            Архіви між виданнями не взаємозамінні.
+          files: artifacts/dist/dist/*.zip
+          make_latest: true
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
