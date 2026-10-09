@@ -93,7 +93,7 @@ jobs:
             Збірка від ${{ steps.version.outputs.date }}.
             Версія відповідає **${{ steps.version.outputs.progress }}%** затверджених перекладів на Crowdin.
 
-            **Встановлення:** розпакуйте архів для свого видання гри в теку гри (поруч із `ds.exe` / `DeathStranding.exe`). Файли гри не змінюються; щоб видалити, зітріть `winhttp.dll` і теку `localization`.
+            **Встановлення:** розпакуйте архів для свого видання в теку з грою (поруч із `ds.exe` / `DeathStranding.exe`). Файли гри не змінюються; щоб видалити, зітріть `winhttp.dll` і теку `localization`.
 
             - `Death.Stranding.Directors.Cut.UA` — для DEATH STRANDING DIRECTOR'S CUT
             - `Death.Stranding.UA` — для звичайної DEATH STRANDING
