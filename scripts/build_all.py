@@ -53,6 +53,8 @@ INSTALL_NOTES = """Українізатор {title}
 рядок "Mounted source:localization/ds_ua.bin".
 
 Цей архів підходить лише до {title}, для іншого видання гри потрібен інший.
+
+Наш телеграм - https://t.me/spilnota_enota
 """
 
 
