@@ -7,6 +7,8 @@ jobs:
   build:
     # Decima (tools/decima) і Oodle -- лише під Windows, MSVC на раннері вже є.
     runs-on: windows-latest
+    # Секрети (CROWDIN_TOKEN, R2_*) лежать в environment з цією назвою.
+    environment: ds
 
     steps:
       - name: Checkout repository

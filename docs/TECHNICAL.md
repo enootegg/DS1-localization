@@ -146,8 +146,8 @@ python scripts/build_all.py --csv my.csv    # уся збірка без Crowdin
 | `CROWDIN_TOKEN` | версія й експорт перекладу |
 | `R2_ACCOUNT_ID`, `R2_ACCESS_KEY_ID`, `R2_SECRET_ACCESS_KEY` | скачати `resources.zip` з бакета `ds-localizer-sources` |
 
-В інсталяторі секрети лежать в environment `dsdc`; тут workflow environment не вказує, тож
-досить секретів рівня репозиторію.
+Job збірки працює в environment `ds` (`Settings → Environments`), тож секрети можна покласти
+туди. Секрети рівня репозиторію теж підійдуть — job бачить і ті, і ті.
 
 Разом з архівами в артефакти збірки потрапляє `ds_untranslated.txt` — рядки звичайної гри,
 що лишились англійською (розділ 6).
